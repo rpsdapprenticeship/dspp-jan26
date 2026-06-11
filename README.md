@@ -2,7 +2,7 @@
 ## My projects
 ### Project 1
 
-![Histogram](histogram-example-2.png)
+![Histogram](images/histograms-image.png)
 ### Project 2
 
 test portfolio

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ryan Dempsey Portfolio
+---
+
 # Portfolio
 
 ## Project: Predicting Depression in Teenagers Using Social Media and Lifestyle Factors

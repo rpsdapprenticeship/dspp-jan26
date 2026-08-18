@@ -1,5 +1,5 @@
-title: DS Portfolio
-logo: /images/stock-pp.jpg
-description: Look at my portfolio!
+title: Ryan Dempsey Portfolio
+logo: images/profile_picture.jpg
+#description: text below image
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
